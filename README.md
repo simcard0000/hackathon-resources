@@ -4,40 +4,61 @@
 
 ## Standard Boilerplates
 |_Name_|_Technology/Framework/Use_|_Type_|_Language(s)_|
-|:----:|:--------------------:|:----:|:-----------:|
-|[MLH Flask Starter](https://github.com/MLH/mlh-hackathon-flask-starter)|[Flask](https://flask.palletsprojects.com/en/1.1.x/)|web dev, API creation|Python
-|[MLH Node.js Starter](https://github.com/MLH/mlh-hackathon-nodejs-starter)|[Node.js](https://nodejs.org/en/docs/)|web dev|JavaScript|
+|:----:|:------------------------:|:----:|:-----------:|
+|[MLH Flask Starter](https://github.com/MLH/mlh-hackathon-flask-starter)|[Flask](https://flask.palletsprojects.com/en/1.1.x/)|backend/web dev, API creation|Python
+|[MLH Node.js Starter](https://github.com/MLH/mlh-hackathon-nodejs-starter)|[Node.js](https://nodejs.org/en/docs/)|backend/web dev|JavaScript|
 |[Sahat's Hackathon Starter](https://github.com/sahat/hackathon-starter#how-it-works-mini-guides)|[Node.js](https://nodejs.org/en/docs/)|web dev|JavaScript
 |[h5bp's HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate)|[HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)|web dev|JavaScript
-|[React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)|[React](https://reactjs.org/)|web dev|JavaScript
-|[Electron-React Boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)|[React](https://reactjs.org/)|web dev|JavaScript
+|[React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)|[React](https://reactjs.org/)|frontend/web dev|JavaScript
+|[Electron-React Boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)|[React](https://reactjs.org/)|frontend/web dev|JavaScript
 |[hitherejoe's Android Boilerplate](https://github.com/hitherejoe/Android-Boilerplate)|[Android](https://developer.android.com/)|mobile app dev|Java
+
 ## Libraries/Packages
 |_Name_|_Technology/Framework/Use_|_Type_|_Language(s)_|
-|:----:|:--------------------:|:----:|:-----------:|
+|:----:|:------------------------:|:----:|:-----------:|
 |[mholt's PapaParse](https://github.com/mholt/PapaParse)|JavaScript|web dev|JavaScript
+|[TensorFlow](https://www.tensorflow.org/)|machine learning|any|Python, Java
+|[SciKit Learn]()|
+|[Keras]()|
+|[PyTorch]()|
+|[SciPy]()|
+|[Pandas]()|
+|[Jest]()|
+|[Bootstrap]()|
+|[UIKit]()|
+|[Blueprint.js]()|
+|[Redux]()|
+|[Redux Router]()|
 
-## Platforms/APIs
+## Platforms/APIs/Cloud Computing Services
 |_Name_|_Technology/Framework/Use_|_Type_|_Language(s)_|
-|:----:|:--------------------:|:----:|:-----------:|
+|:----:|:------------------------:|:----:|:-----------:|
+|[IBM Cloud](https://www.ibm.com/cloud)|
+|[Microsoft Azure](https://azure.microsoft.com/en-ca/)|
+|[Google Cloud](https://cloud.google.com/)|
+|[API list](https://apilist.fun/)|
+|[Any API](https://any-api.com)|
 
 ## Design Tools
 |_Name_|_Technology/Framework/Use_|_Type_|_Language(s)_|
-|:----:|:--------------------:|:----:|:-----------:|
+|:----:|:------------------------:|:----:|:-----------:|
 |[Google Fonts](fonts.google.com)|fonts|web dev/any|N/A
 
 ## Backend/Database
 |_Name_|_Technology/Framework/Use_|_Type_|_Language(s)_|
-|:----:|:--------------------:|:----:|:-----------:|
+|:----:|:------------------------:|:----:|:-----------:|
 |[jackyzha0's nanoDB](https://github.com/jackyzha0/nanoDB)|similar to [Redis](https://redis.io/) but with [MongoDB](https://www.mongodb.com/) style documents|database|N/A
 
 ## Hardware Specific
 |_Name_|_Technology/Framework/Use_|_Type_|_Language(s)_|
-|:----:|:--------------------:|:----:|:-----------:
+|:----:|:------------------------:|:----:|:-----------:|
 
-## Collaboration Tools
+## Collaboration Tools/Other
 |_Name_|_Technology/Framework/Use_|_Type_|_Language(s)_|
-|:----:|:--------------------:|:----:|:-----------:|
+|:----:|:------------------------:|:----:|:-----------:|
+|[GitHub Student Development Pack](https://education.github.com/pack)|any|N/A|N/A
+|[Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb)|good for [TensorFlow](https://www.tensorflow.org/)|code editing|Python
+|[Glitch](https://www.tensorflow.org/)|full-stack web dev|code editing|JavaScript
 
 ### Contribution Guidelines
 If you've found this useful, consider sharing your own knowledge! 
