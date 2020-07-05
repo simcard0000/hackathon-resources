@@ -18,17 +18,17 @@
 |:----:|:------------------------:|:----:|:-----------:|
 |[mholt's PapaParse](https://github.com/mholt/PapaParse)|JavaScript|web dev|JavaScript
 |[TensorFlow](https://www.tensorflow.org/)|machine learning|any|Python, Java
-|[SciKit Learn]()|
-|[Keras]()|
-|[PyTorch]()|
-|[SciPy]()|
-|[Pandas]()|
-|[Jest]()|
-|[Bootstrap]()|
-|[UIKit]()|
-|[Blueprint.js]()|
-|[Redux]()|
-|[Redux Router]()|
+|[SciKit Learn](https://scikit-learn.org/stable/)|machine learning|any|Python
+|[Keras](https://keras.io/)|machine learning|any|Python
+|[PyTorch](https://pytorch.org/)|machine learning|any|Python
+|[SciPy](https://www.scipy.org/)|math|any|Python
+|[Pandas](https://pandas.pydata.org/)|data analysis|any|Python
+|[Jest](https://jestjs.io/)|Babel, TypeScript, Node.js, React, Angular and Vue.js|testing|JavaScript
+|[Bootstrap](https://getbootstrap.com/)|user interface|web dev|JavaScript, HTML, CSS
+|[UIKit](https://getuikit.com/)|user interface|web dev|JavaScript, HTML, CSS
+|[Blueprint.js](https://blueprintjs.com/)|user interface, [React](https://reactjs.org/)|web dev|JavaScript, HTML, CSS
+|[Redux](https://redux.js.org/)|state management, [React](https://reactjs.org/)|web dev|JavaScript, HTML, CSS
+|[Redux Router](https://github.com/ReactTraining/react-router)|routing, [Redux](https://redux.js.org/)|web dev|JavaScript, HTML, CSS
 
 ## Platforms/APIs/Cloud Computing Services
 |_Name_|_Technology/Framework/Use_|_Type_|_Language(s)_|
@@ -43,6 +43,8 @@
 |_Name_|_Technology/Framework/Use_|_Type_|_Language(s)_|
 |:----:|:------------------------:|:----:|:-----------:|
 |[Google Fonts](fonts.google.com)|fonts|web dev/any|N/A
+|[Google Material](https://material.io/)|assets and resources|web dev/mobile app dev|N/A
+|[Figma](https://www.figma.com)|collaboration|any|N/A
 
 ## Backend/Database
 |_Name_|_Technology/Framework/Use_|_Type_|_Language(s)_|
@@ -52,6 +54,7 @@
 ## Hardware Specific
 |_Name_|_Technology/Framework/Use_|_Type_|_Language(s)_|
 |:----:|:------------------------:|:----:|:-----------:|
+
 
 ## Collaboration Tools/Other
 |_Name_|_Technology/Framework/Use_|_Type_|_Language(s)_|
