@@ -45,6 +45,7 @@
 |[Google Fonts](fonts.google.com)|fonts|web dev/any|N/A
 |[Google Material](https://material.io/)|assets and resources|web dev/mobile app dev|N/A
 |[Figma](https://www.figma.com)|collaboration|any|N/A
+|[LucidChart](https://www.lucidchart.com)|diagrams|any|N/A
 
 ## Backend/Database
 |_Name_|_Technology/Framework/Use_|_Type_|_Language(s)_|
