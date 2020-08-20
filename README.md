@@ -89,10 +89,10 @@ If you've found this useful, consider sharing your own knowledge!
 * #### Share a Resource
   Open up a pull request adding your resource to one of the above tables; and in the PR message specify the name of the table, name of the resource, the technology/framework(s), type (type being the area in tech your resource falls under, see above for examples), and the programming language(s) that your resource uses.
 * #### Share a Code Snippet
-  Create a new file that has the language, and a blurb of the purpose as the title (see files for examples). Inside the file, make sure you comment as much as possible - so that it's clear to know what your code is doing.
+  Create a new file that has the language, and a blurb of the purpose as the title. Inside the file, make sure you comment as much as possible - so that it's clear to know what your code is doing.
 
 ### Credits
 See something here that you'd like taken down? Please open up a pull request removing the item and specifying a reason for your decision.
 
 ### Where Else Should I Look?
-If you're interested in applying "YAGNI" ("You aren't gonna need it") principles to your development process, check out [How to Save Time at a Hackathon](https://medium.com/@paulmelnikow/how-to-save-time-at-a-hackathon-abe7846747b5) by Paul Melnikow. There is also an extensive list of tools put together by nyhackathons [here](https://nyhackathons.com/tools/). Finally, there's [Free resources for building hackathon apps quickly](https://www.developintelligence.com/blog/2016/03/free-resources-for-building-apps-quickly-for-hackathons/) from Develop Intelligence and [The Hackathon Toolbox](https://www.thecodeship.com/general/hackathon-toolbox-essential-tools-practices/) that discusses some good resources too.
+If you're interested in applying "YAGNI" ("You aren't gonna need it") principles to your development process, check out [How to Save Time at a Hackathon](https://medium.com/@paulmelnikow/how-to-save-time-at-a-hackathon-abe7846747b5) by Paul Melnikow. There is also an extensive list of tools put together by nyhackathons [here](https://nyhackathons.com/tools/). Finally, there's [Free resources for building hackathon apps quickly](https://www.developintelligence.com/blog/2016/03/free-resources-for-building-apps-quickly-for-hackathons/) from Develop Intelligence and [The Hackathon Toolbox](https://www.thecodeship.com/general/hackathon-toolbox-essential-tools-practices/) that discuss some good resources too.
