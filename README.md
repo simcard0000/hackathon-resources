@@ -12,6 +12,7 @@
 |[React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)|[React](https://reactjs.org/)|frontend/web dev|JavaScript
 |[Electron-React Boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)|[React](https://reactjs.org/)|frontend/web dev|JavaScript
 |[hitherejoe's Android Boilerplate](https://github.com/hitherejoe/Android-Boilerplate)|[Android](https://developer.android.com/)|mobile app dev|Java
+|[Kriasoft's React Starter Kit](https://github.com/kriasoft/react-starter-kit)|[React](https://reactjs.org/)|frontend/web dev|TypeScript
 
 ## Libraries/Packages
 |_Name_|_Use_|_Language(s)_|
