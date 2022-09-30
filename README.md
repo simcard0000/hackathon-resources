@@ -68,7 +68,7 @@ Also see [Contribution Guidelines](#contribution-guidelines), [Credits](#credits
 ## Design Tools
 |_Name_|_Use_|
 |:----:|:---:|
-|[Google Fonts](fonts.google.com)|fonts|
+|[Google Fonts](https://fonts.google.com/)|fonts|
 |[Google Material](https://material.io/)|icons, UI components|
 |[Figma](https://www.figma.com)|protoypes, design collaboration|
 |[Invision](https://www.invisionapp.com/)|prototypes, design collaboration|
@@ -123,7 +123,7 @@ Also see [Contribution Guidelines](#contribution-guidelines), [Credits](#credits
 |:----:|:---:|
 |[GitHub Student Development Pack](https://education.github.com/pack)|student access to coding resources
 |[Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb)|good for [TensorFlow](https://www.tensorflow.org/)/Python, collaborative code editing
-|[Glitch](https://www.tensorflow.org/)|full-stack web dev, collaborative code editing
+|[Glitch](https://glitch.com/)|full-stack web dev, collaborative code editing
 |[GitHub Desktop](https://desktop.github.com/)|Git client
 |[GitAhead](https://gitahead.github.io/gitahead.com/)|Git client
 |[Notion](https://www.notion.so/)|project planning
