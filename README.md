@@ -75,6 +75,7 @@ Also see [Contribution Guidelines](#contribution-guidelines), [Credits](#credits
 |[LucidChart](https://www.lucidchart.com)|prototypes, diagrams|
 |[the Noun Project](https://thenounproject.com/)|icons|
 |[flaticon](https://www.flaticon.com/)|icons|
+|[OpenMoji](https://openmoji.org)|icons|
 |[Blueprint.js](https://blueprintjs.com/)|UI components, [React](https://reactjs.org/)|
 |[UIKit](https://getuikit.com/)|UI components|
 |[Milligram](https://milligram.io/)|CSS framework|
