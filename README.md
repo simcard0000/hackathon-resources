@@ -33,6 +33,7 @@ Also see [Contribution Guidelines](#contribution-guidelines), [Credits](#credits
 |[dhg's Skeleton Boilerplate](https://github.com/dhg/Skeleton)|[CSS](https://www.w3.org/Style/CSS/Overview.en.html)|frontend/web dev|CSS
 |[SimulatedGREG's Electron-Vue Boilerplate](https://github.com/SimulatedGREG/electron-vue)|[Vue.js](https://vuejs.org/)|frontend/web dev|JavaScript
 |[Infinite Red's React Native Boilerplate](https://github.com/infinitered/ignite)|[React Native](https://reactnative.dev/)|mobile app dev|TypeScript
+|[Internet Development Studio's NextJS-Sass Starter](https://github.com/internet-development/nextjs-sass-starter)|[NextJS](https://nextjs.org/)|frontend/web dev|TypeScript
 
 ## Libraries/Packages
 |_Name_|_Use_|_Language(s)_|
