@@ -34,6 +34,8 @@ Also see [Contribution Guidelines](#contribution-guidelines), [Credits](#credits
 |[SimulatedGREG's Electron-Vue Boilerplate](https://github.com/SimulatedGREG/electron-vue)|[Vue.js](https://vuejs.org/)|frontend/web dev|JavaScript
 |[Infinite Red's React Native Boilerplate](https://github.com/infinitered/ignite)|[React Native](https://reactnative.dev/)|mobile app dev|TypeScript
 |[Internet Development Studio's NextJS-Sass Starter](https://github.com/internet-development/nextjs-sass-starter)|[NextJS](https://nextjs.org/)|frontend/web dev|TypeScript
+|[Planter Basic](https://github.com/ditto-codes/planter-basic)|[Vite.JS](https://vitejs.dev/)|frontend/web dev|JavaScript
+|[Planter Svelte](https://github.com/ditto-codes/planter-svelte)|[Svelte](https://svelte.dev/)|frontend/web dev|Svelte
 
 ## Libraries/Packages
 |_Name_|_Use_|_Language(s)_|
