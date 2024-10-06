@@ -137,6 +137,7 @@ Also see [Contribution Guidelines](#contribution-guidelines), [Credits](#credits
 |[diagrams.net/draw.io](https://www.diagrams.net/)|chart creation
 |[Kinopio](https://kinopio.club/)|chart creation/project planning
 |[Xournal++](https://xournalpp.github.io/)|note-taking/drawing
+|[Dev Starter Pack](https://devstarterpack.io/)|save on some paid software (e.g. one year free)
 
 ### Contribution Guidelines
 If you've found this useful, consider sharing your own knowledge! 
