@@ -117,6 +117,7 @@ Also see [Contribution Guidelines](#contribution-guidelines), [Credits](#credits
 |_Name_|_Use_|
 |:----:|:---:|
 |[Netlify](https://www.netlify.com/)|hosting and serverless backend for web apps/static sites
+|[Vercel](https://vercel.com/)|build, deployment, and hosting tools
 |[GitHub Pages](https://pages.github.com/)|host site directly from a GitHub repository
 |[Heroku](https://heroku.com/)|Platform as a Service (PaaS)
 |[Cloudflare](https://www.cloudflare.com/)|CDN and DDoS mitigation
